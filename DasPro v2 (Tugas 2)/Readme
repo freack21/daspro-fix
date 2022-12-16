@@ -1,0 +1,23 @@
+Author:
+  Nama : Fikri Rivandi
+  NIM : 2207112583
+  Kelas : TI-B
+
+DasPro v2.0
+- Menambahkan Function
+- Menbahkan While Loop
+- Menbahkan Counter (Kesempatan = 3)
+
+DasPro v2.x
+- Menambahkan Random Kode
+- Menambahkan Level (1-5)
+- Menambahkan Kondisi Menang/Kalah
+- Menambah fitur hint ketika menjawab salah (opsional)
+- Menambah splash diawal program (opsional)
+- Menambah animasi proses mengecek jawaban dan loading (uncompiled code)
+- Menambah cheat code (uncompiled code)
+
+Wishlist
+- Sistem skor
+- Menebak kode di 1 line
+- Menebak kode benar dengan susunan acak akan dihitung benar

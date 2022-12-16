@@ -1,0 +1,30 @@
+C:\Users\fixri\Desktop\Project\Adventure\bin\Debug\net6.0\Adventure.exe
+C:\Users\fixri\Desktop\Project\Adventure\bin\Debug\net6.0\Adventure.deps.json
+C:\Users\fixri\Desktop\Project\Adventure\bin\Debug\net6.0\Adventure.runtimeconfig.json
+C:\Users\fixri\Desktop\Project\Adventure\bin\Debug\net6.0\Adventure.dll
+C:\Users\fixri\Desktop\Project\Adventure\bin\Debug\net6.0\Adventure.pdb
+C:\Users\fixri\Desktop\Project\Adventure\obj\Debug\net6.0\Adventure.csproj.AssemblyReference.cache
+C:\Users\fixri\Desktop\Project\Adventure\obj\Debug\net6.0\Adventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fixri\Desktop\Project\Adventure\obj\Debug\net6.0\Adventure.AssemblyInfoInputs.cache
+C:\Users\fixri\Desktop\Project\Adventure\obj\Debug\net6.0\Adventure.AssemblyInfo.cs
+C:\Users\fixri\Desktop\Project\Adventure\obj\Debug\net6.0\Adventure.csproj.CoreCompileInputs.cache
+C:\Users\fixri\Desktop\Project\Adventure\obj\Debug\net6.0\Adventure.dll
+C:\Users\fixri\Desktop\Project\Adventure\obj\Debug\net6.0\refint\Adventure.dll
+C:\Users\fixri\Desktop\Project\Adventure\obj\Debug\net6.0\Adventure.pdb
+C:\Users\fixri\Desktop\Project\Adventure\obj\Debug\net6.0\Adventure.genruntimeconfig.cache
+C:\Users\fixri\Desktop\Project\Adventure\obj\Debug\net6.0\ref\Adventure.dll
+C:\Users\fixri\Desktop\Daspro-all\Adventure Game (Tugas 5)\bin\Debug\net6.0\Adventure.exe
+C:\Users\fixri\Desktop\Daspro-all\Adventure Game (Tugas 5)\bin\Debug\net6.0\Adventure.deps.json
+C:\Users\fixri\Desktop\Daspro-all\Adventure Game (Tugas 5)\bin\Debug\net6.0\Adventure.runtimeconfig.json
+C:\Users\fixri\Desktop\Daspro-all\Adventure Game (Tugas 5)\bin\Debug\net6.0\Adventure.dll
+C:\Users\fixri\Desktop\Daspro-all\Adventure Game (Tugas 5)\bin\Debug\net6.0\Adventure.pdb
+C:\Users\fixri\Desktop\Daspro-all\Adventure Game (Tugas 5)\obj\Debug\net6.0\Adventure.csproj.AssemblyReference.cache
+C:\Users\fixri\Desktop\Daspro-all\Adventure Game (Tugas 5)\obj\Debug\net6.0\Adventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fixri\Desktop\Daspro-all\Adventure Game (Tugas 5)\obj\Debug\net6.0\Adventure.AssemblyInfoInputs.cache
+C:\Users\fixri\Desktop\Daspro-all\Adventure Game (Tugas 5)\obj\Debug\net6.0\Adventure.AssemblyInfo.cs
+C:\Users\fixri\Desktop\Daspro-all\Adventure Game (Tugas 5)\obj\Debug\net6.0\Adventure.csproj.CoreCompileInputs.cache
+C:\Users\fixri\Desktop\Daspro-all\Adventure Game (Tugas 5)\obj\Debug\net6.0\Adventure.dll
+C:\Users\fixri\Desktop\Daspro-all\Adventure Game (Tugas 5)\obj\Debug\net6.0\refint\Adventure.dll
+C:\Users\fixri\Desktop\Daspro-all\Adventure Game (Tugas 5)\obj\Debug\net6.0\Adventure.pdb
+C:\Users\fixri\Desktop\Daspro-all\Adventure Game (Tugas 5)\obj\Debug\net6.0\Adventure.genruntimeconfig.cache
+C:\Users\fixri\Desktop\Daspro-all\Adventure Game (Tugas 5)\obj\Debug\net6.0\ref\Adventure.dll

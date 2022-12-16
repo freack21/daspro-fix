@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Rubik', sans-serif;
+}
+
+.card {
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    width: 480px;
+    max-width: 75%;
+    margin: auto;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.card p {
+    color: green;
+    margin: 8px 0;
+    font-size: 15px;
+}
+
+.card button {
+    background-color: green;
+    padding: 8px 16px;
+    margin-top: 8px;
+    color: white;
+    border: 0;
+    border-radius: 20px;
+}
+
+.card button:hover {
+    background-color: rgb(20, 51, 20);
+    color: white;
+    cursor: pointer;
+}

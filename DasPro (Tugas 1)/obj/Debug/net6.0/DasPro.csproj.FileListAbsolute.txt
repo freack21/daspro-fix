@@ -1,0 +1,30 @@
+C:\Users\fixri\Desktop\DasPro\bin\Debug\net6.0\DasPro.exe
+C:\Users\fixri\Desktop\DasPro\bin\Debug\net6.0\DasPro.deps.json
+C:\Users\fixri\Desktop\DasPro\bin\Debug\net6.0\DasPro.runtimeconfig.json
+C:\Users\fixri\Desktop\DasPro\bin\Debug\net6.0\DasPro.dll
+C:\Users\fixri\Desktop\DasPro\bin\Debug\net6.0\DasPro.pdb
+C:\Users\fixri\Desktop\DasPro\obj\Debug\net6.0\DasPro.csproj.AssemblyReference.cache
+C:\Users\fixri\Desktop\DasPro\obj\Debug\net6.0\DasPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fixri\Desktop\DasPro\obj\Debug\net6.0\DasPro.AssemblyInfoInputs.cache
+C:\Users\fixri\Desktop\DasPro\obj\Debug\net6.0\DasPro.AssemblyInfo.cs
+C:\Users\fixri\Desktop\DasPro\obj\Debug\net6.0\DasPro.csproj.CoreCompileInputs.cache
+C:\Users\fixri\Desktop\DasPro\obj\Debug\net6.0\DasPro.dll
+C:\Users\fixri\Desktop\DasPro\obj\Debug\net6.0\refint\DasPro.dll
+C:\Users\fixri\Desktop\DasPro\obj\Debug\net6.0\DasPro.pdb
+C:\Users\fixri\Desktop\DasPro\obj\Debug\net6.0\DasPro.genruntimeconfig.cache
+C:\Users\fixri\Desktop\DasPro\obj\Debug\net6.0\ref\DasPro.dll
+C:\Users\fixri\Desktop\Daspro-all\DasPro (Tugas 1)\bin\Debug\net6.0\DasPro.exe
+C:\Users\fixri\Desktop\Daspro-all\DasPro (Tugas 1)\bin\Debug\net6.0\DasPro.deps.json
+C:\Users\fixri\Desktop\Daspro-all\DasPro (Tugas 1)\bin\Debug\net6.0\DasPro.runtimeconfig.json
+C:\Users\fixri\Desktop\Daspro-all\DasPro (Tugas 1)\bin\Debug\net6.0\DasPro.dll
+C:\Users\fixri\Desktop\Daspro-all\DasPro (Tugas 1)\bin\Debug\net6.0\DasPro.pdb
+C:\Users\fixri\Desktop\Daspro-all\DasPro (Tugas 1)\obj\Debug\net6.0\DasPro.csproj.AssemblyReference.cache
+C:\Users\fixri\Desktop\Daspro-all\DasPro (Tugas 1)\obj\Debug\net6.0\DasPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fixri\Desktop\Daspro-all\DasPro (Tugas 1)\obj\Debug\net6.0\DasPro.AssemblyInfoInputs.cache
+C:\Users\fixri\Desktop\Daspro-all\DasPro (Tugas 1)\obj\Debug\net6.0\DasPro.AssemblyInfo.cs
+C:\Users\fixri\Desktop\Daspro-all\DasPro (Tugas 1)\obj\Debug\net6.0\DasPro.csproj.CoreCompileInputs.cache
+C:\Users\fixri\Desktop\Daspro-all\DasPro (Tugas 1)\obj\Debug\net6.0\DasPro.dll
+C:\Users\fixri\Desktop\Daspro-all\DasPro (Tugas 1)\obj\Debug\net6.0\refint\DasPro.dll
+C:\Users\fixri\Desktop\Daspro-all\DasPro (Tugas 1)\obj\Debug\net6.0\DasPro.pdb
+C:\Users\fixri\Desktop\Daspro-all\DasPro (Tugas 1)\obj\Debug\net6.0\DasPro.genruntimeconfig.cache
+C:\Users\fixri\Desktop\Daspro-all\DasPro (Tugas 1)\obj\Debug\net6.0\ref\DasPro.dll

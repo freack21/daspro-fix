@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Rubik', sans-serif;
+    box-sizing: border-box;
+    background-color:#aaa;
+}
+
+.container {
+    border: 1px solid black;
+    background-color:white;
+    padding: 16px;
+    margin: 16px auto;
+    width: 85%;
+    height: 100%;
+    border-radius: 16px;
+    max-width: 400px;
+}
+
+h1, h2, h3,h4,h5,h6,p {
+    color:black;
+}
+
+.txt {
+    margin: 8px 2px 0 0;
+    min-width: 50%;
+    /* max-width: 75%; */
+    width: 75%;
+    padding: 8px;
+    background-color:gainsboro;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+button {
+    background-color:bisque;
+    border: 1px solid black;
+    color:black;
+    padding: 8px;
+    border-radius: 20px;
+    margin-bottom: 16px;
+}
+
+button:hover {
+    background-color:black;
+    color:white;
+}
+
+button:active {
+    background-color:gray;
+    color:white;
+}
+
+.todoList li {
+    margin-bottom: -1px;
+    color: black;
+    list-style-type:none;
+    border: 1px solid black;
+    padding: 6px;
+    border-radius: 0px;
+}
+
+.todoList li:hover {
+    background-color:#ddd;
+    color:black;
+    cursor: grab;
+}
+
+.todoList li:active {
+    cursor: grabbing;
+}
+
+p.expl:hover {
+    background-color:#ddd;
+    color:black;
+    cursor: not-allowed;
+}
+
+h3.expl {
+    border: 1px solid black;
+    color:black;
+    padding: 5px 16px;
+    border-radius: 50px;
+    margin: 0px 0px -1px -12px;
+    width: fit-content;
+}
+
+p.expl {
+    border: 1px solid black;
+    color:black;
+    margin: 0px -6px 16px -6px;
+    padding: 6px;
+    padding-left: 8px;
+    font-weight: 700;
+    font-size: 15px;
+    border-radius: 0;
+}
+
+hr {
+    background-color: black;
+    height: 1px;
+    margin: 8px -16px;
+}
+
+h5 {
+    margin-bottom: -4px;
+}
+
+.del {
+    color: red;
+    font-size: 12px;
+}
+
+.add {
+    color: green;
+    font-size: 12px;
+}

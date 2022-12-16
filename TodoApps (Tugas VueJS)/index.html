@@ -1,0 +1,60 @@
+<!--
+Author :
+    Fikri Rivandi
+    2207112583
+    TI-B
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+    <title>ToDoApps + VueJS</title>
+</head>
+<body>
+<div id="app">
+    <h1>{{t1}}</h1>
+    <input type="text" v-model="todo" v-on:keyup.enter="addTodo" placeholder="tulis list, lalu enter">
+    <button v-on:click="addTodo">Tambah List</button>
+    <p v-if="!isListed">~ Belum ada List ~</p>
+    <p v-else>~ Todo List ~</p>
+    <ul>
+        <li v-for="(tdl, i) in todoLi">
+            <button @click="removeTodo(i)">X</button> {{tdl}}
+        </li>
+    </ul>
+    <button v-if="isListed" @click="removeAll">Hapus Semua</button> {{tdl}}
+</div>
+
+<script>
+    var vue = new Vue({
+        el: "#app",
+        data: {
+            t1: 'ToDoApps (VueJS)',
+            todoLi: [],
+            todo: ''
+        },
+        methods: {
+            addTodo: function() {
+                if(this.todo.trim() != '')
+                    this.todoLi.push(this.todo);
+                this.todo = '';
+            },
+            removeTodo: function(i) {
+                this.todoLi.splice(i, 1);
+            },
+            removeAll: function() {
+                this.todoLi.splice(0, this.todoLi.length);
+            }
+        },
+        computed: {
+            isListed: function() {
+                return (this.todoLi.length != 0)
+            }
+        }
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,8 @@
+<div class="card">
+  <h2>
+    Selamat datang di kelas Pemrograman {{mk}}!
+  </h2>
+  <button (click)="changeMK()">Ganti Mata Kuliah</button>
+  <p *ngIf="mk != 'Framework'">*Mata Kuliah Diganti!</p>
+</div>
+<router-outlet></router-outlet>

@@ -1,0 +1,30 @@
+C:\Users\fixri\Desktop\Project\Battle Tank\bin\Debug\net6.0\Battle Tank.exe
+C:\Users\fixri\Desktop\Project\Battle Tank\bin\Debug\net6.0\Battle Tank.deps.json
+C:\Users\fixri\Desktop\Project\Battle Tank\bin\Debug\net6.0\Battle Tank.runtimeconfig.json
+C:\Users\fixri\Desktop\Project\Battle Tank\bin\Debug\net6.0\Battle Tank.dll
+C:\Users\fixri\Desktop\Project\Battle Tank\bin\Debug\net6.0\Battle Tank.pdb
+C:\Users\fixri\Desktop\Project\Battle Tank\obj\Debug\net6.0\Battle Tank.csproj.AssemblyReference.cache
+C:\Users\fixri\Desktop\Project\Battle Tank\obj\Debug\net6.0\Battle Tank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fixri\Desktop\Project\Battle Tank\obj\Debug\net6.0\Battle Tank.AssemblyInfoInputs.cache
+C:\Users\fixri\Desktop\Project\Battle Tank\obj\Debug\net6.0\Battle Tank.AssemblyInfo.cs
+C:\Users\fixri\Desktop\Project\Battle Tank\obj\Debug\net6.0\Battle Tank.csproj.CoreCompileInputs.cache
+C:\Users\fixri\Desktop\Project\Battle Tank\obj\Debug\net6.0\Battle Tank.dll
+C:\Users\fixri\Desktop\Project\Battle Tank\obj\Debug\net6.0\refint\Battle Tank.dll
+C:\Users\fixri\Desktop\Project\Battle Tank\obj\Debug\net6.0\Battle Tank.pdb
+C:\Users\fixri\Desktop\Project\Battle Tank\obj\Debug\net6.0\Battle Tank.genruntimeconfig.cache
+C:\Users\fixri\Desktop\Project\Battle Tank\obj\Debug\net6.0\ref\Battle Tank.dll
+C:\Users\fixri\Desktop\Daspro-all\Battle Tank (Tugas 4)\bin\Debug\net6.0\Battle Tank.exe
+C:\Users\fixri\Desktop\Daspro-all\Battle Tank (Tugas 4)\bin\Debug\net6.0\Battle Tank.deps.json
+C:\Users\fixri\Desktop\Daspro-all\Battle Tank (Tugas 4)\bin\Debug\net6.0\Battle Tank.runtimeconfig.json
+C:\Users\fixri\Desktop\Daspro-all\Battle Tank (Tugas 4)\bin\Debug\net6.0\Battle Tank.dll
+C:\Users\fixri\Desktop\Daspro-all\Battle Tank (Tugas 4)\bin\Debug\net6.0\Battle Tank.pdb
+C:\Users\fixri\Desktop\Daspro-all\Battle Tank (Tugas 4)\obj\Debug\net6.0\Battle Tank.csproj.AssemblyReference.cache
+C:\Users\fixri\Desktop\Daspro-all\Battle Tank (Tugas 4)\obj\Debug\net6.0\Battle Tank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fixri\Desktop\Daspro-all\Battle Tank (Tugas 4)\obj\Debug\net6.0\Battle Tank.AssemblyInfoInputs.cache
+C:\Users\fixri\Desktop\Daspro-all\Battle Tank (Tugas 4)\obj\Debug\net6.0\Battle Tank.AssemblyInfo.cs
+C:\Users\fixri\Desktop\Daspro-all\Battle Tank (Tugas 4)\obj\Debug\net6.0\Battle Tank.csproj.CoreCompileInputs.cache
+C:\Users\fixri\Desktop\Daspro-all\Battle Tank (Tugas 4)\obj\Debug\net6.0\Battle Tank.dll
+C:\Users\fixri\Desktop\Daspro-all\Battle Tank (Tugas 4)\obj\Debug\net6.0\refint\Battle Tank.dll
+C:\Users\fixri\Desktop\Daspro-all\Battle Tank (Tugas 4)\obj\Debug\net6.0\Battle Tank.pdb
+C:\Users\fixri\Desktop\Daspro-all\Battle Tank (Tugas 4)\obj\Debug\net6.0\Battle Tank.genruntimeconfig.cache
+C:\Users\fixri\Desktop\Daspro-all\Battle Tank (Tugas 4)\obj\Debug\net6.0\ref\Battle Tank.dll

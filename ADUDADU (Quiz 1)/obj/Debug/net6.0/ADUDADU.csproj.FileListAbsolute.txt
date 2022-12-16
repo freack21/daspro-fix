@@ -1,0 +1,30 @@
+C:\Users\fixri\Desktop\ADUDADU\bin\Debug\net6.0\ADUDADU.exe
+C:\Users\fixri\Desktop\ADUDADU\bin\Debug\net6.0\ADUDADU.deps.json
+C:\Users\fixri\Desktop\ADUDADU\bin\Debug\net6.0\ADUDADU.runtimeconfig.json
+C:\Users\fixri\Desktop\ADUDADU\bin\Debug\net6.0\ADUDADU.dll
+C:\Users\fixri\Desktop\ADUDADU\bin\Debug\net6.0\ADUDADU.pdb
+C:\Users\fixri\Desktop\ADUDADU\obj\Debug\net6.0\ADUDADU.csproj.AssemblyReference.cache
+C:\Users\fixri\Desktop\ADUDADU\obj\Debug\net6.0\ADUDADU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fixri\Desktop\ADUDADU\obj\Debug\net6.0\ADUDADU.AssemblyInfoInputs.cache
+C:\Users\fixri\Desktop\ADUDADU\obj\Debug\net6.0\ADUDADU.AssemblyInfo.cs
+C:\Users\fixri\Desktop\ADUDADU\obj\Debug\net6.0\ADUDADU.csproj.CoreCompileInputs.cache
+C:\Users\fixri\Desktop\ADUDADU\obj\Debug\net6.0\ADUDADU.dll
+C:\Users\fixri\Desktop\ADUDADU\obj\Debug\net6.0\refint\ADUDADU.dll
+C:\Users\fixri\Desktop\ADUDADU\obj\Debug\net6.0\ADUDADU.pdb
+C:\Users\fixri\Desktop\ADUDADU\obj\Debug\net6.0\ADUDADU.genruntimeconfig.cache
+C:\Users\fixri\Desktop\ADUDADU\obj\Debug\net6.0\ref\ADUDADU.dll
+C:\Users\fixri\Desktop\Daspro-all\ADUDADU (Quiz 1)\bin\Debug\net6.0\ADUDADU.exe
+C:\Users\fixri\Desktop\Daspro-all\ADUDADU (Quiz 1)\bin\Debug\net6.0\ADUDADU.deps.json
+C:\Users\fixri\Desktop\Daspro-all\ADUDADU (Quiz 1)\bin\Debug\net6.0\ADUDADU.runtimeconfig.json
+C:\Users\fixri\Desktop\Daspro-all\ADUDADU (Quiz 1)\bin\Debug\net6.0\ADUDADU.dll
+C:\Users\fixri\Desktop\Daspro-all\ADUDADU (Quiz 1)\bin\Debug\net6.0\ADUDADU.pdb
+C:\Users\fixri\Desktop\Daspro-all\ADUDADU (Quiz 1)\obj\Debug\net6.0\ADUDADU.csproj.AssemblyReference.cache
+C:\Users\fixri\Desktop\Daspro-all\ADUDADU (Quiz 1)\obj\Debug\net6.0\ADUDADU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fixri\Desktop\Daspro-all\ADUDADU (Quiz 1)\obj\Debug\net6.0\ADUDADU.AssemblyInfoInputs.cache
+C:\Users\fixri\Desktop\Daspro-all\ADUDADU (Quiz 1)\obj\Debug\net6.0\ADUDADU.AssemblyInfo.cs
+C:\Users\fixri\Desktop\Daspro-all\ADUDADU (Quiz 1)\obj\Debug\net6.0\ADUDADU.csproj.CoreCompileInputs.cache
+C:\Users\fixri\Desktop\Daspro-all\ADUDADU (Quiz 1)\obj\Debug\net6.0\ADUDADU.dll
+C:\Users\fixri\Desktop\Daspro-all\ADUDADU (Quiz 1)\obj\Debug\net6.0\refint\ADUDADU.dll
+C:\Users\fixri\Desktop\Daspro-all\ADUDADU (Quiz 1)\obj\Debug\net6.0\ADUDADU.pdb
+C:\Users\fixri\Desktop\Daspro-all\ADUDADU (Quiz 1)\obj\Debug\net6.0\ADUDADU.genruntimeconfig.cache
+C:\Users\fixri\Desktop\Daspro-all\ADUDADU (Quiz 1)\obj\Debug\net6.0\ref\ADUDADU.dll

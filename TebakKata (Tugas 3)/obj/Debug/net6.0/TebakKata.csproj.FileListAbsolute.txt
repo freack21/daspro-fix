@@ -1,0 +1,15 @@
+C:\Users\fixri\Desktop\Project\TebakKata\bin\Debug\net6.0\TebakKata.exe
+C:\Users\fixri\Desktop\Project\TebakKata\bin\Debug\net6.0\TebakKata.deps.json
+C:\Users\fixri\Desktop\Project\TebakKata\bin\Debug\net6.0\TebakKata.runtimeconfig.json
+C:\Users\fixri\Desktop\Project\TebakKata\bin\Debug\net6.0\TebakKata.dll
+C:\Users\fixri\Desktop\Project\TebakKata\bin\Debug\net6.0\TebakKata.pdb
+C:\Users\fixri\Desktop\Project\TebakKata\obj\Debug\net6.0\TebakKata.csproj.AssemblyReference.cache
+C:\Users\fixri\Desktop\Project\TebakKata\obj\Debug\net6.0\TebakKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fixri\Desktop\Project\TebakKata\obj\Debug\net6.0\TebakKata.AssemblyInfoInputs.cache
+C:\Users\fixri\Desktop\Project\TebakKata\obj\Debug\net6.0\TebakKata.AssemblyInfo.cs
+C:\Users\fixri\Desktop\Project\TebakKata\obj\Debug\net6.0\TebakKata.csproj.CoreCompileInputs.cache
+C:\Users\fixri\Desktop\Project\TebakKata\obj\Debug\net6.0\TebakKata.dll
+C:\Users\fixri\Desktop\Project\TebakKata\obj\Debug\net6.0\refint\TebakKata.dll
+C:\Users\fixri\Desktop\Project\TebakKata\obj\Debug\net6.0\TebakKata.pdb
+C:\Users\fixri\Desktop\Project\TebakKata\obj\Debug\net6.0\TebakKata.genruntimeconfig.cache
+C:\Users\fixri\Desktop\Project\TebakKata\obj\Debug\net6.0\ref\TebakKata.dll
